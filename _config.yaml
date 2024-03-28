@@ -9,7 +9,7 @@ description: >
 theme: minima
 
 header_pages:
-  - about.html
+  - about.md
 
 minima:
   skin: auto
