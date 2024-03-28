@@ -1,12 +1,15 @@
 title: jinyuzu99
 author:
   name: Yuzu Jin
-  email: "i@9902259.xyz"
+  email: i@9902259.xyz
 
 description: >
   💭 think different
 
 theme: minima
+
+header_pages:
+  - about.html
 
 minima:
   skin: auto
